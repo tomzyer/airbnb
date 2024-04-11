@@ -5,3 +5,6 @@
 -- +----------+
 
 
+SELECT COUNT(*)
+FROM listings
+WHERE neighborhood = "Lincoln Park";
